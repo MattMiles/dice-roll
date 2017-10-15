@@ -28,6 +28,6 @@ the output may be something like:
 TOTAL: 28 / 60
 ```
 
-### Licensing
+## Licensing
 
 This program is licensed under the GNU General Public License v3.0. See the license for more details.
