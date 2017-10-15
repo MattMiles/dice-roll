@@ -1,6 +1,6 @@
 # dice-roll
 
-A simple Python script that rolls dice given a dice roll expression. 
+A simple Python script that rolls some dice given a dice roll expression. 
 
 ## Format
 Expressions must be of the following format:
